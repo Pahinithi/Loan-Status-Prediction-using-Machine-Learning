@@ -58,7 +58,7 @@ This project is a machine learning-based application that uses a trained model t
 
 ### Model Explanation
 
-The model is a binary classifier trained to predict whether a loan will be approved or not based on various features. The model was trained using a decision tree algorithm and achieved an accuracy of **79.86%** on the training data and **83.33%** on the test data.
+The model is a binary classifier trained to predict whether a loan will be approved or not based on various features. The model was trained using a Support Vector Machine (SVM) Algorithm and achieved an accuracy of **79.86%** on the training data and **83.33%** on the test data.
 
 ### Dataset
 
