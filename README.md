@@ -62,7 +62,7 @@ The model is a binary classifier trained to predict whether a loan will be appro
 
 ### Dataset
 
-The dataset used for this project includes [brief description of dataset]. It contains features such as gender, marital status, income, loan amount, credit history, etc.
+The dataset used for this project contains features such as gender, marital status, income, loan amount, credit history, etc
 
 ## Project Structure
 
@@ -78,4 +78,9 @@ If you would like to contribute to this project, feel free to submit a pull requ
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
+
+## Contact
+
+For any questions or inquiries, please contact me at [nithilan32@gmail.com](mailto:nithilan32@gmail.com).
+
